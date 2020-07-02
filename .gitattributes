@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.pbtxt filter=lfs diff=lfs merge=lfs -text
+model.ckpt-292760.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model.ckpt-292760.index filter=lfs diff=lfs merge=lfs -text
+model.ckpt-292760.meta filter=lfs diff=lfs merge=lfs -text
