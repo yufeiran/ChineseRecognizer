@@ -7,5 +7,4 @@
 2. 克隆[https://github.com/yufeiran/ChineseRecognizer](https://github.com/yufeiran/ChineseRecognizer)
 到本地目录
 3. [src] 为图片路径
-<code> python main.py [src]
-</code>
+<code> python main.py [src]</code>
