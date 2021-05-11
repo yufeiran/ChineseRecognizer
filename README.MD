@@ -1,7 +1,7 @@
 一个训练完成的CNN网络，用于识别汉字 
 
 ![](https://img.shields.io/badge/tensorflow-1.15.0-brightgreen)
-![](https://img.shields.io/badge/python-3.7-brightgreen)
+![](https://img.shields.io/badge/python-2.7-brightgreen)
 
 ## 用法
 1. 配置运行环境：安装python2.x ，tensorflow 1.1.15 
